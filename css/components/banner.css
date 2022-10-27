@@ -1,0 +1,18 @@
+.banner {
+  color: white;
+  padding: 300px 0;
+  background-size: cover;
+  background-position: center;
+  text-shadow: 0 0 8px rgba(0,0,0,0.7);
+  margin-bottom: 64px;
+}
+
+.banner h1, .banner p {
+  margin: 0;
+  display: flex;
+  align-items: center;
+}
+
+.banner p {
+  margin-bottom: 48px;
+}
